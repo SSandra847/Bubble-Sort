@@ -1,2 +1,3 @@
 # Bubble-Sort
-JavaScript
+
+A bubble sort algorithm using javascript.
